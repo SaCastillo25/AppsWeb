@@ -1,0 +1,88 @@
+header{
+    background-color: rgb(0, 74, 192);
+    width: 1000px;
+    height: 300px;
+    float: left;
+    border-bottom: 15px solid black;
+    border-left: 15px solid black;
+    border-right: 15px solid black;
+}
+nav{
+    background-color: rgb(50, 143, 7);
+    width: 1000px;
+    height: 100px;
+    float: left;
+    border-top: 15px solid black;
+    border-bottom: 15px solid black;
+    border-left: 15px solid black;
+    border-right: 15px solid black;
+}
+.Cajita{
+    background-color: rgb(255, 255, 255);
+    width: 180px;
+    height: 80px;
+    float: left;
+    margin: 10px;
+    line-height: 80px;
+    text-align: center;
+    font-size: 30px;
+}
+.BAN{
+    background-color: rgb(255, 255, 255);
+    width: 800px;
+    height: 280px;
+    float: left;
+    margin: 10px;
+    line-height: 250px;
+    text-align: center;
+    font-size: 80px; 
+}
+.TRES{
+    background-color: rgb(255, 255, 255);
+    width: 150px;
+    height: 80px;
+    float: left;
+    margin: 10px;
+    line-height: 80px;
+    text-align: center;
+    font-size: 30px; 
+}
+main{
+    background-color: rgba(188, 195, 118, 0.5);
+    width: 1000px;
+    height: 250px;
+    float: left;
+    border-bottom: 15px solid black;
+    border-left: 15px solid black;
+    border-right: 15px solid black;
+}
+.aside{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    height: 230px;
+    float: left;
+    margin: 10px;
+    line-height: 200px;
+    text-align: center;
+    font-size: 30px;
+}
+.articule{
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 230px;
+    float: left;
+    margin: 10px;
+    line-height: 200px;
+    text-align: center;
+    font-size: 30px;
+}
+footer{
+    background-color: rgb(221, 178, 38);
+    width: 1000px;
+    height: 80px;
+    float: left;
+    line-height: 200px;
+    border-bottom: 15px solid black;
+    border-left: 15px solid black;
+    border-right: 15px solid black;
+}
